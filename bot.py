@@ -17,7 +17,7 @@ def speak(text):
 
     # List all available voices
     voices = engine.getProperty('voices')
-    engine.setProperty('voice', voices[0].id)  # You can choose a different voice from the list
+    engine.setProperty('voice', voices[1].id)  # You can choose a different voice from the list
 
 
 if __name__ == "__main__":
