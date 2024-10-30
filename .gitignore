@@ -30913,3 +30913,5 @@ bot_env/Scripts/tqdm.exe
 bot_env/Scripts/transformers-cli.exe
 bot_env/Scripts/undill
 bot_env/share/man/man1/isympy.1
+bot_env/Lib/site-packages/__pycache__/pythoncom.cpython-312.pyc
+bot_env/Lib/site-packages/adodbapi/__init__.py
